@@ -1,0 +1,5 @@
+llama-index
+openai
+python-dotenv
+python-pptx
+requests

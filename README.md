@@ -20,7 +20,7 @@ pip install openai pptx jupyter pandas
 
 1. **Clone the repository:**
 ```bash
-git clone git@github.com:M1T8E6/llm-powerpoint.git
+git clone git@github.com:userID/llm-powerpoint.git
 cd llm-powerpoint.git
 ```
 

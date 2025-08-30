@@ -46,5 +46,8 @@ You can customize the slides by modifying the cell responsible for defining slid
 If you’d like to contribute to the development of this project, please feel free to submit a pull request or open an issue
 
 ## License
-
 This project is licensed under the MIT License.
+
+## Reference - https://medium.com/@matteo28/how-to-generate-a-powerpoint-with-an-llm-3b0448a48125
+
+
